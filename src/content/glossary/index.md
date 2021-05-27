@@ -264,6 +264,13 @@ A security model for certain [layer 2](#layer-2) solutions where, to increase sp
 The initial test development stage of Ethereum, which lasted from July 2015 to March 2016.
 
 <Divider />
+### Fear, Uncertainty, and Doubt  {#FUD}
+
+FUD is an acronym for "Fear, Uncertainty, and Doubt." Term is commonly used in the cryptocurrency community as a short way to describe negative information or media about a blockchain based currency or asset. Elon Musk was spreading FUD about Bitcoin when he said "Tesla would no longer be accecpting Bitcoin as payments for their cars.
+
+"https://edition.cnn.com/2021/05/12/tech/elon-musk-tesla-bitcoin/index.html 
+
+Jeffrey Perrine 2021
 
 ## G {#section-g}
 
